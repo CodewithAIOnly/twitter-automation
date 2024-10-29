@@ -1,0 +1,4 @@
+node_modules/
+.env
+.DS_Store  # MacOS specific
+*.log      # Ignore any log files
